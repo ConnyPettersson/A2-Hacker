@@ -1,0 +1,2 @@
+Jag planerar att i huvudsak använda grid med inslag av Flexbox.
+Min ursprungliga plan rent teoretiskt är att dela upp min CSS i 3 delar med <div></div>:ar där varje <div> har en container med 12 fr som rutnät samt att använda SASS. Om detta fungerar återstår att se. 
