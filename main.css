@@ -165,7 +165,8 @@ h2 {
   margin-left: 52px;
 }
 
-.roomCard_2 {
+.roomCard_2,
+.roomCard_3 {
   margin-left: 38px;
 }
 
@@ -275,6 +276,115 @@ h3 {
   background-color: #011827;
   border-color: #8ACFE5;
   border-radius: 8px;
+}
+
+
+.image_5 {
+  width: 480px;
+  height: 300px;
+}
+
+
+.playText {
+  margin: 30px 20px 0px 20px;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+
+.latinBox_3 {
+  width: 435px;
+  height: 112px;
+}
+
+
+.quote_3 {
+  font-size: 24px;
+  font-weight: 400;
+}
+
+
+.ChallengesButton {
+  margin-top: 50px;
+  margin-left: 20px;
+  align-self: flex-start;
+  width: 308px;
+  height: 66px;
+  background-color: #E3170A;
+  border: none;
+  border-radius: 4px;
+  color: #FFFFFF;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+
+footer {
+  height: 566px;
+  background-color: #011827;
+  margin-top: 98px;
+  color: #FFFFFF;
+}
+
+
+.footerTitle {
+  margin-top: 64px;
+}
+
+
+.footerTitle,
+.siteMap,
+.followUs {
+  font-weight: 700;
+}
+
+
+.latinText_4 {
+  font-weight: 400;
+  margin-right: 20px;
+  margin-top: 7px;
+}
+
+
+.footerTitle,
+.latinText_4,
+.siteMap,
+.followUs {
+  font-size: 18px;
+  margin-left: 22px;
+  margin-bottom: 0;
+}
+
+.siteMap {
+  margin: 40px 0 7px 22px;
+}
+
+
+footer ul {
+  margin-left: 22px;
+  margin-top: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+
+
+.siteMapList_1 {
+  margin: 0;
+  padding: 0;
+  font-weight: 400;
+}
+
+
+.followUs {
+  margin-top: 47px;
+  margin-bottom: 0;
+}
+
+
+.socialMedia ul {
+  margin-top: 7px;
+  padding: 0;
 }
 
 
