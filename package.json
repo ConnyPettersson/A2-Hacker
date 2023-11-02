@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Jag planerar att i huvudsak använda grid med inslag av Flexbox.\r Min ursprungliga plan rent teoretiskt är att dela upp min CSS i 3 delar med <div></div>:ar där varje <div> har en container med 12 fr som rutnät samt att använda SASS. Om detta blir bra återstår att se.",
   "scripts": {
+    "sass:watch": "sass --no-source-map --watch src/main.scss main.css",
     "sass:compile": "sass --no-source-map src/main.scss main.css"
   },
   "author": "",
